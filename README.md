@@ -1,6 +1,6 @@
 ### Olá, eu sou o Murilo Carnelós 👋
 
-- 🌱 Estudo atualmente Java
+- 🌱 Estudo atualmente Javascript
 
  <div>
   <a href="https://github.com/mcarnelos">
