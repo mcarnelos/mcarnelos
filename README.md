@@ -1,6 +1,6 @@
 ### Olá, eu sou o Murilo Carnelós 👋
 
-- 🌱 Estudo atualmente Javascript e React, busco uma oportunidade para trabalhar como desenvolvedor Front-end, aqui você pode conhecer os projetos que venho desenvolvendo na área.
+- 🌱 Estudo atualmente Javascript e React, aqui você pode conhecer os projetos que venho desenvolvendo na área.
 
  <div>
   <a href="https://github.com/mcarnelos">
