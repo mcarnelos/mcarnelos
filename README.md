@@ -1,29 +1,67 @@
-### Olá, eu sou o Murilo Carnelós 👋
+# 🚀 Murilo Carnelós
 
-- 🌱 Estudo atualmente Devops e Cloud, aqui você pode conhecer os projetos que venho desenvolvendo na área.
+💻 Cloud Support | AWS | Infraestrutura | Linux | Troubleshooting  
 
- <div>
+---
+
+## 👨‍💻 Sobre mim
+
+Profissional de TI com mais de 14 anos de experiência em suporte técnico e infraestrutura, atuando na resolução de incidentes e administração de ambientes críticos.
+
+Atualmente focado em Cloud Computing, com certificação AWS Cloud Practitioner e experiência prática em projetos utilizando serviços como EC2, S3, IAM, VPC e CloudFront.
+
+Tenho forte atuação em troubleshooting de infraestrutura, redes e sistemas Linux, com foco em disponibilidade, segurança e performance.
+
+---
+
+## ☁️ Tecnologias e Ferramentas
+
+- AWS (EC2, S3, IAM, VPC, CloudFront, CloudWatch)
+- Linux (Ubuntu, Amazon Linux)
+- Redes (TCP/IP, DNS, HTTP/HTTPS)
+- Monitoramento (Zabbix, Grafana)
+- Git e GitHub
+- Docker (básico)
+- Terraform (básico)
+
+---
+
+## 🚀 Projetos em Destaque
+
+🔹 Deploy de aplicação na AWS com EC2  
+→ Provisionamento de servidor Linux, configuração de Apache e troubleshooting  
+
+🔹 Hospedagem de site estático com S3  
+→ Configuração de permissões e resolução de erro 403  
+
+🔹 Gerenciamento de acessos com IAM  
+→ Implementação de políticas seguindo princípio de menor privilégio  
+
+👉 Veja todos os projetos nos repositórios abaixo 👇
+
+---
+
+## 📊 Estatísticas
+
+<div>
   <a href="https://github.com/mcarnelos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mcarnelos&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcarnelos&layout=compact&langs_count=7&theme=merko"/>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Murilo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Murilo-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Murilo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Murilo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Murilo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Murilo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Murilo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- </div>
-  
- ##
-  
-  <div> 
-  <a href = "mailto:murilo486@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/murilo-carnel%C3%B3s/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  ![Snake animation](https://github.com/mcarnelos/mcarnelos/blob/output/github-contribution-grid-snake.svg)
-    
-  </div>
-  
+
+---
+
+## 📫 Contato
+
+📧 muriloc.c@hotmail.com  
+💼 https://www.linkedin.com/in/murilo-carnelos  
+
+---
+
+## ⚡ Objetivo
+
+Atuar como Cloud Support Analyst ou Analista de Infraestrutura Cloud, contribuindo com minha experiência em suporte e evoluindo em ambientes AWS.
+
+---
+
+⭐ Se quiser trocar uma ideia sobre Cloud ou oportunidades, fique à vontade para entrar em contato!
